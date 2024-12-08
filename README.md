@@ -1,0 +1,2 @@
+# Dynamic-Favicon
+Dynamic favicon
